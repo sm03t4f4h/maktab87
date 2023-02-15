@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW10-T01-01</string>
+    <string name="PREV"><![CDATA[< PREV]]></string>
+    <string name="NEXT"><![CDATA[NEXT >]]></string>
+    <string name="CHEAT">CHEAT!</string>
+    <string name="FALSE">FALSE</string>
+    <string name="TRUE">TRUE</string>
+    <string name="Questions">Questions</string>
+    <string name="GeoQuiz">GeoQuiz</string>
+    <string name="are_you_sure_you_want_to_do_this">Are you sure you want to do this?</string>
+</resources>
